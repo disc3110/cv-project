@@ -15,6 +15,7 @@ const GlobalStyles = createGlobalStyle`
   button { background: transparent; border: 0; outline: 0 }
   body {
     background: black;
+    color: white;
     height: 100vh;
     margin: 0 auto;
     overscroll-behavior: none;
